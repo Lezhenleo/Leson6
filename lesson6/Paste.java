@@ -1,5 +1,5 @@
 package ru.homework.lesson6;
-
+//Написать программу, «склеивающую» эти файлы
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

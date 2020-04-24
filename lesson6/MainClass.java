@@ -1,5 +1,5 @@
 package ru.homework.lesson6;
-
+//Создать 2 текстовых файла, примерно по 50-100 символов в каждом(особого значения не имеет);
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Random;
